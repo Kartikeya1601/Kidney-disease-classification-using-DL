@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Kartikeya1601 /Kidney-disease-classification-using-DL
+Author: Kartikeya1601 
+Author-email: kartikeya1601@gmail.com
+Project-URL: Bug Tracker, https://github.com/Kartikeya1601 /Kidney-disease-classification-using-DL/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-disease-classification-using-DL
+Kidney disease classification pjct.
